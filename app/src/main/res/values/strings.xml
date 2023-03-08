@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="textWelcome">Dishonored is a good game</string>
+    <string name="descriptionImage" translatable="false">Dishonored Wanted</string>
+</resources>
